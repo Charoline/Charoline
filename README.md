@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Charoline
-- 👀 I’m interested in Ethical hacking
+- 👋 Hi, I’m Wayua Kyalo
+- 👀 I’m a Network Engineer
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on cyber security task
 - 📫 How to reach me carolekyalo100@gmail.com
